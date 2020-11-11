@@ -14,7 +14,8 @@ Use:
 
 Installation:
 
-Use the .sql File.<br>
+Drag´n Drop "onlineinventar" to your "Addons" Folder.<br>
+Use the .sql File.
 Upload it to you MySQL Server and execute the file (to create the databases)<br>
 Add the Login information to your Script
 
