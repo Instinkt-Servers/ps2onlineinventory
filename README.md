@@ -1,4 +1,4 @@
-# ps2onlineinventory
+# Popintshop2 MySQL Online Inventory
 Pointshop2 MySQL Online Inventory
 
 With this Script it is possible to move Pointshop2 Items to a MySQL Database.
