@@ -25,8 +25,8 @@ local trade_blacklist = { -- items that cant be traded
     ["6000 Premium Punkte"] = true
 }
 local lua_netstring = "crosstrade.luarun" -- netstring used for client chat manipulation
-local chat_prefix = [[chat.AddText(Color(128,128,128),"[Instinkt Servers Cross Trading] ",%s)]] -- chat prefix
-local chat_texts = { -- chat texts, can be changed (ik you will translate this to deutsch xdddddddddd, just dont change the %s - those are used to insert the item names)
+local chat_prefix = [[chat.AddText(Color(128,128,128),"[Instinkt´s Cross Trading] ",%s)]] -- chat prefix
+local chat_texts = { 
     [[Color(222,222,222),"Du hast folgendes Item gehandelt: ",Color(222,222,0),"%s",Color(222,222,222),"."]],
     [[Color(222,222,222),"Item ",Color(222,222,0),"%s",Color(222,222,222)," existiert nicht."]],
     [[Color(222,222,222),"Item ",Color(222,222,0),"%s",Color(222,222,222)," kann nicht gehandelt werden."]],
