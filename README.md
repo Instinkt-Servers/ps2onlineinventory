@@ -1,7 +1,7 @@
 # Pointshop2 MySQL Online Inventory
 Pointshop2 MySQL Online Inventory
 
-With this Script it is possible to move Pointshop2 Items to a MySQL Database and <b>UNLIMITED ITEMS PER PLAYER</b>
+With this Script it is possible to move Pointshop2 Items to a MySQL Database and <b>UNLIMITED ITEMS PER PLAYER.</b><br>
 This can reduce Load on Server and save Performance.
 Also your Pointshop2 database is smaller.
 
