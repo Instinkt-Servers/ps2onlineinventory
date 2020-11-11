@@ -1,10 +1,10 @@
 --[[
     Config
 --]]
-local db_host = "vweb05.nitrado.net"
-local db_name = "ni52545_4sql16"
-local db_username = "ni52545_4sql16"
-local db_pw = "47ce229d"
+local db_host = "127.0.0.1"
+local db_name = "username"
+local db_username = "username"
+local db_pw = "password"
 local db_port = 3306
 local delay = 10
 local delay2 = 10
