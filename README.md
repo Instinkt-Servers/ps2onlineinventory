@@ -1,2 +1,2 @@
 # ps2onlineinventory
-Pointshhop2 MySQL Online Inventory
+Pointshop2 MySQL Online Inventory
