@@ -9,12 +9,12 @@ You could Code an Web Overlay or whatever you want. Your choice.
 
 Use:
 
-!trade "Itemname" <- Trade´s to MySQL Datbase
+!trade "Itemname" <- Trade´s to MySQL Datbase <br>
 !get "Itemname" <- You´ll get your Item out of the Online Inventory
 
 Installation:
 
-Use the .sql File.
+Use the .sql File.<br>
 Upload it to you MySQL Server and execute the file (to create the databases)
 Add the Login information to your Script
 
