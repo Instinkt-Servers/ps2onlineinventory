@@ -1,4 +1,8 @@
 --[[
+This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
+--]]
+
+--[[
     Config
 --]]
 local db_host = "127.0.0.1"
