@@ -15,7 +15,7 @@ Use:
 Installation:
 
 Use the .sql File.<br>
-Upload it to you MySQL Server and execute the file (to create the databases)
+Upload it to you MySQL Server and execute the file (to create the databases)<br>
 Add the Login information to your Script
 
 You´re good to go.
